@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934112599968",
+    "firebase_url": "https://itravelu-be557.firebaseio.com",
+    "project_id": "itravelu-be557",
+    "storage_bucket": "itravelu-be557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934112599968:android:1a5a59fece1693cd",
+        "android_client_info": {
+          "package_name": "kr.edcan.lumihana.itravelu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934112599968-q4p8pfo6723m6dbofb6ia52j7hl9c0d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.edcan.lumihana.itravelu",
+            "certificate_hash": "13CAF5FB7695E45E80EF1E6DC5E80C06766FA043"
+          }
+        },
+        {
+          "client_id": "934112599968-0hsob1dgmfrt0f1qaspkmislols3rksc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfCOrsemFKr3QXp7KW3VsYQDO4_8Fx0gY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934112599968-0hsob1dgmfrt0f1qaspkmislols3rksc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

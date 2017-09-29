@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">I.Travel.U</string>
+    <string name="client_id" translatable="false">934112599968-0hsob1dgmfrt0f1qaspkmislols3rksc.apps.googleusercontent.com</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="main_tab_main">メイン</string>
+    <string name="main_tab_travel">トレベル</string>
+    <string name="main_tab_food">strinフードg</string>
+    <string name="main_tab_theme">テーマ</string>
+    <string name="day_monday">月曜日</string>
+    <string name="day_tuesday">火曜日</string>
+    <string name="day_wednesdaty">水曜日</string>
+    <string name="day_thursday">木曜日</string>
+    <string name="day_friday">金曜日</string>
+    <string name="day_Saturday">土曜日</string>
+    <string name="day_sunday">日曜日</string>
+    <string name="text_help_places">行きったところ</string>
+    <string name="text_help_plan">計画したところ</string>
+    <string name="type_highlight">ハイライト</string>
+    <string name="type_historys">歴史</string>
+    <string name="type_park">公園</string>
+    <string name="text_recommend_title">あなたへのおすすめ</string>
+    <string name="text_recommend_content">あなたにためのおすすめのところ</string>
+</resources>

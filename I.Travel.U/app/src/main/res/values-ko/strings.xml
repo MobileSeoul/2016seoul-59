@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">I.Travel.U</string>
+    <string name="client_id" translatable="false">934112599968-0hsob1dgmfrt0f1qaspkmislols3rksc.apps.googleusercontent.com</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="main_tab_main">메인</string>
+    <string name="main_tab_travel">여행</string>
+    <string name="main_tab_food">음식</string>
+    <string name="main_tab_theme">테마</string>
+    <string name="day_monday">월요일</string>
+    <string name="day_tuesday">화요일</string>
+    <string name="day_wednesdaty">수요일</string>
+    <string name="day_thursday">목요일</string>
+    <string name="day_friday">금요일</string>
+    <string name="day_Saturday">토요일</string>
+    <string name="day_sunday">일요일</string>
+    <string name="text_help_places">내가 방문한 장소</string>
+    <string name="text_help_plan">가고 싶은 장소</string>
+    <string name="type_highlight">하이라이트</string>
+    <string name="type_historys">역사</string>
+    <string name="type_park">공원</string>
+    <string name="text_recommend_title">당신을 위한 장소</string>
+    <string name="text_recommend_content">당신의 유형에 맞는 추천 장소</string>
+</resources>
